@@ -1,4 +1,4 @@
-<h1 align="center"> Hello everyone
+<h1 align="center"> Hello world
   
 ### About Me:
 - 🖥️ Studying Computer Science
@@ -6,8 +6,6 @@
 - 📖 Constantly Learning and Growing
 -  ✨ Creativity
 - 🎮 Gamer
-
-![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioBenitez&show_icons=true&theme=tokyonight)
 
 ### Languages
 
@@ -57,6 +55,9 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
   </a>
+
+  ![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioBenitez&show_icons=true&theme=tokyonight)
+  
 
 ### Social media
 
