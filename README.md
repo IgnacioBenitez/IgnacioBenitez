@@ -7,6 +7,9 @@
 -  ✨ Creativity
 - 🎮 Gamer
 
+![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioBenitez&show_icons=true&theme=defauld)
+
+
 ### Languages
 
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
@@ -27,7 +30,8 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </a>
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioBenitez&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools
 
@@ -54,8 +58,6 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
   </a>
-
-
 
 ### Social media
 
