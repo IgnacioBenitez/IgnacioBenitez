@@ -7,8 +7,7 @@
 -  ✨ Creativity
 - 🎮 Gamer
 
-![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioBenitez&show_icons=true&theme=defauld)
-
+![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioBenitez&show_icons=true&theme=tokyonight)
 
 ### Languages
 
@@ -31,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioBenitez&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioBenitez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools
 
