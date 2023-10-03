@@ -6,7 +6,7 @@
 - 📖 Constantly Learning and Growing
 -  ✨ Creativity
 - 🎮 Gamer
-
+  
 ### Languages
 
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
@@ -80,19 +80,14 @@
 
 ``` c++
 #include <bits/stdc++.h>
-using namespace std;
-int main(){
-
-  cout << "If you can imagine it, you can program it \n";
-  cout << "- Alejandro Taboada";
-    
+using namespace std;      /\_/\
+int main(){                ^-^
+                           >/<
+  cout << "If you can imagine it, you can program it \n";    
+  cout << "- Alejandro Taboada";                             
+                                                              
   return 0;
 }
-/*
-  /\_/\
-   ^-^
-   >/<
-*/
 ```
 
  ![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioBenitez&show_icons=true&theme=tokyonight)
