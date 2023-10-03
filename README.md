@@ -1,11 +1,12 @@
-<h1 align="center"> Hello world
-  
-### About Me:
-- 🖥️ Studying Computer Science
+<h1 align="center">Hello world</h1>
+
+### About me
+Hello, I'm from Chilpancingo, Guerrero. Nice to meet you, and I look forward to collaborating on programming with more people.
+
 - 💡 Enthusiastic Problem Solver
 - 📖 Constantly Learning and Growing
--  ✨ Creativity
-- 🎮 Gamer
+- ✨ Creativity
+- 🎮 Gamer 
   
 ### Languages
 
