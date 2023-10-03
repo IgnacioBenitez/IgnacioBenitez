@@ -44,22 +44,27 @@
   </a>
 </p>
 
+
 <h3 align="left">Social media</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ignaciobenitez" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacio benitez" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/ignacio_pqsi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ignacio_pqsi" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/ignacio_pqsi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ignacio_pqsi" height="30" width="40" />
-  </a>
-</p>
 
-## Social Media
-[![Codeforces](https://shields.io/badge/-Codeforces-2319?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/ignacio_pqsi)
-[![HackerRank](https://shields.io/badge/-HackerRank-00EA64?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/ignacio_pqsi)
-[![Instagram](https://shields.io/badge/-Instagram-DD2A7D?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/ignaciosalb/)
-[![LinkedIn](https://shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ignacio-benitez-752853255/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:iganciobs2610@gmail.com)
+<a href="https://codeforces.com/profile/ignacio_pqsi">
+  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/Codeforces2.png?raw=true" height="35" alt="Codeforces">
+</a>
+
+<a href="https://omegaup.com/profile/Ignacio_pqsi/">
+  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/OmegaUp.png?raw=true" height="35" alt="OmegaUp">
+</a>
+
+<a href="https://www.hackerrank.com/ignacio_pqsi">
+  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/HackerRank.png?raw=true" height="35" alt="HackerRank">
+</a>
+
+<a href="https://www.linkedin.com/in/ignacio-benitez-752853255/">
+  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/LinKed-in.png?raw=true" height="35" alt="linkedin">
+</a>
+
+<a href="mailto:iganciobs2610@gmail.com">
+  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/Gmail.png?raw=true" height="35" alt="Gmail">
+</a>
+
