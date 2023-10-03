@@ -82,10 +82,19 @@
 </a>
 
 ``` c++
-cout << "If you can imagine it, you can program it \n";
-cout << "- Alejandro Taboada";
-/\_/\
- ^-^
- >/<
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+
+  cout << "If you can imagine it, you can program it \n";
+  cout << "- Alejandro Taboada";
+    
+  return 0;
+}
+/*
+  /\_/\
+   ^-^
+   >/<
+*/
 ```
 
