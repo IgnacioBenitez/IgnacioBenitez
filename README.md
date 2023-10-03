@@ -56,10 +56,7 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
   </a>
 
-  ![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioBenitez&show_icons=true&theme=tokyonight)
-  
-
-### Social media
+### Social Media
 
 <a href="https://codeforces.com/profile/ignacio_pqsi">
   <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/Codeforces2.png?raw=true" height="25" alt="Codeforces">
@@ -97,4 +94,6 @@ int main(){
    >/<
 */
 ```
+
+ ![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgnacioBenitez&show_icons=true&theme=tokyonight)
 
