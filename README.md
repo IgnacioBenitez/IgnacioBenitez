@@ -1,7 +1,5 @@
 <h1 align="center"> Hello everyone
-<h3 align="center">I'm Ignacio :)) </h3>
-
-
+  
 ### About Me:
 - 🖥️ Studying Computer Science
 - 💡 Enthusiastic Problem Solver
