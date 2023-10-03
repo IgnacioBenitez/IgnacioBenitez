@@ -49,22 +49,22 @@
 <p align="left">
 
 <a href="https://codeforces.com/profile/ignacio_pqsi">
-  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/Codeforces2.png?raw=true" height="35" alt="Codeforces">
+  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/Codeforces2.png?raw=true" height="25" alt="Codeforces">
 </a>
 
 <a href="https://omegaup.com/profile/Ignacio_pqsi/">
-  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/OmegaUp.png?raw=true" height="35" alt="OmegaUp">
+  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/OmegaUp.png?raw=true" height="25" alt="OmegaUp">
 </a>
 
 <a href="https://www.hackerrank.com/ignacio_pqsi">
-  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/HackerRank.png?raw=true" height="35" alt="HackerRank">
+  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/HackerRank.png?raw=true" height="25" alt="HackerRank">
 </a>
 
 <a href="https://www.linkedin.com/in/ignacio-benitez-752853255/">
-  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/LinKed-in.png?raw=true" height="35" alt="linkedin">
+  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/LinKed-in.png?raw=true" height="25" alt="linkedin">
 </a>
 
 <a href="mailto:iganciobs2610@gmail.com">
-  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/Gmail.png?raw=true" height="35" alt="Gmail">
+  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/Gmail.png?raw=true" height="25" alt="Gmail">
 </a>
 
