@@ -1,7 +1,7 @@
 <h1 align="center">Hello world</h1>
 
 ### About me
-I'm from Chilpancingo, Guerrero. Nice to meet you, and I look forward to collaborating with you.
+I'm from Chilpancingo, Guerrero. 
 
 - 💡 Enthusiastic Problem Solver
 - 📖 Constantly Learning and Growing
