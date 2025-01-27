@@ -6,10 +6,8 @@ I'm from Chilpancingo, Guerrero.
 - 💡 Enthusiastic Problem Solver
 - 📖 Constantly Learning and Growing
 - ✨ Creativity
-- 🎮 Gamer 
   
 ### Languages
-
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
   </a>
