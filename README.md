@@ -57,7 +57,7 @@ I'm from Chilpancingo, Guerrero.
 
 ### Social Media
 
-<a href="https://codeforces.com/profile/ignacio_pqsi">
+<a href="https://codeforces.com/profile/ignacio_benq">
   <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/Codeforces2.png?raw=true" height="25" alt="Codeforces">
 </a>
 
@@ -69,7 +69,7 @@ I'm from Chilpancingo, Guerrero.
   <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/HackerRank.png?raw=true" height="25" alt="HackerRank">
 </a>
 
-<a href="https://www.linkedin.com/in/ignacio-benitez-752853255/">
+<a href="https://www.linkedin.com/in/ignacio-benitez-salvador/">
   <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/LinKed-in.png?raw=true" height="25" alt="linkedin">
 </a>
 
