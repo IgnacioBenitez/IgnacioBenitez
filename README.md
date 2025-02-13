@@ -52,10 +52,6 @@ I'm from Chilpancingo, Guerrero.
   <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/LinKed-in.png?raw=true" height="25" alt="linkedin">
 </a>
 
-<a href="mailto:ignaciobs2610@gmail.com">
-  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/Gmail.png?raw=true" height="25" alt="Gmail">
-</a>
-
 ``` c++
 
    /\_/\
