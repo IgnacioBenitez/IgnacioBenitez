@@ -7,7 +7,7 @@ I'm from Chilpancingo, Guerrero.
 - 📖 Constantly Learning and Growing
 - ✨ Creativity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioBenitez&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioBenitez&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tools
